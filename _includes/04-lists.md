@@ -1,3 +1,3 @@
--Beach
---Mountains
----cities
+- Beach
+-- Mountains
+--- cities
