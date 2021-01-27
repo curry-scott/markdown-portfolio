@@ -1,1 +1,1 @@
-[Github Account] (https://github.com/curry-scott)
+[text](https://example.com)
